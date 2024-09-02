@@ -262,4 +262,5 @@ Run the `yarn verify --network your_network` command to verify your contracts on
 
 > 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
 #   c h a l l e n g e - 1 - d e c e n t r a l i z e d - s t a k i n g - a p p  
+ #   c h a l l e n g e - 1 - d e c e n t r a l i z e d - s t a k i n g - a p p  
  
